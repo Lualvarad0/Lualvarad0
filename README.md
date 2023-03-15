@@ -3,10 +3,12 @@
 
 - 👨‍💻 All of my projects are available at [Lualvarad0](Lualvarad0)
 
+- 📫 How to reach me **lui.alv.ron.25@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/david-alvarado-ronquillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-alvarado-ronquillo" height="30" width="40" /></a>
-<a href="https://instagram.com/@siulvid_alv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@siulvid_alv" height="30" width="40" /></a>
+<a href="https://instagram.com/siulvid_alv.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siulvid_alv.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
