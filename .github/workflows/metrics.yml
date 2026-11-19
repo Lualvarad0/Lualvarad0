@@ -19,7 +19,6 @@ jobs:
 
           # Base: header, actividad reciente, comunidad y stats de repos
           base: header, activity, community, repositories
-          plugin_lines: yes
 
           # Calendario de contribuciones (isométrico, año completo)
           plugin_isocalendar: yes
