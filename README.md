@@ -12,14 +12,22 @@
 
 </div>
 
-### 👋 Sobre mí
+### 🐧 whoami
 
-Desarrollador full stack con experiencia real en producción — backend, frontend, móvil e infraestructura — ahora enfocado en llevar esas mismas habilidades al mundo de la **ciberseguridad ofensiva**. Me interesa entender cómo se rompen los sistemas que yo mismo construyo, para diseñarlos más resistentes desde el día uno.
+```ansi
+[1;32mdavid@portfolio[0m
+[1;32m───────────────────────────────────────────────────────────[0m
+[1;32mOS[0m         Full Stack Developer → Security Enthusiast
+[1;32mHost[0m       Guayas, Ecuador
+[1;32mKernel[0m     Flutter · .NET · Angular · Node
+[1;32mUptime[0m     Construyendo Unisono (Flutter, offline-first)
+[1;32mShell[0m      OWASP Top 10, Burp Suite, Nmap — autodidacta
+[1;32mPackages[0m   SaaS para pymes: talleres mecanicos, tributario SRI
+[1;32mContact[0m    linkedin.com/in/david-alvarado-ronquillo
 
-- 🔭 Construyendo **[Unísono](https://github.com/Lualvarad0/Unisono)**, una app offline-first en Flutter para sincronizar letras y acordes entre músicos en tiempo real, con o sin internet.
-- 🛡️ Aprendiendo pentesting web de forma autodidacta (OWASP Top 10, Burp Suite, Nmap) y automatizando pruebas de seguridad con Python.
-- 🌎 Basado en Ecuador, trabajando en SaaS para pymes locales (talleres mecánicos, gestión tributaria con el SRI).
-- 💬 Hablemos de Flutter, .NET, Angular o de cómo meterle seguridad a un proyecto real sin frenar el desarrollo.
+[1;32m$[0m [1;37mecho "Hablemos de tu proximo proyecto."[0m
+Hablemos de tu proximo proyecto.
+```
 
 <br>
 
@@ -37,14 +45,22 @@ Desarrollador full stack con experiencia real en producción — backend, fronte
 
 ### 🚀 Proyectos destacados
 
+<p><code>$ ls -la ~/proyectos-destacados</code></p>
+
 <table>
 <tr>
 <td width="50%" valign="top">
+
+<sub>🔴 🟡 🟢 &nbsp;<code>~/Unisono</code></sub>
+
 <a href="https://github.com/Lualvarad0/Unisono"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&theme=tokyonight&hide_border=true" width="100%"/></a>
 App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, con o sin internet.<br/>
 <code>Flutter</code> <code>Firebase</code> <code>Nearby Connections</code>
 </td>
 <td width="50%" valign="top">
+
+<sub>🔴 🟡 🟢 &nbsp;<code>~/Gestor-Facturas-sri</code></sub>
+
 <a href="https://github.com/Lualvarad0/Gestor-Facturas-sri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&theme=tokyonight&hide_border=true" width="100%"/></a>
 Nudo: app gratuita y open source para organizar gastos en Ecuador — importa XML, verifica comprobantes con el SRI y clasifica por categoría.<br/>
 <code>Angular</code> <code>.NET</code> <code>PostgreSQL</code>
@@ -52,11 +68,17 @@ Nudo: app gratuita y open source para organizar gastos en Ecuador — importa XM
 </tr>
 <tr>
 <td width="50%" valign="top">
+
+<sub>🔴 🟡 🟢 &nbsp;<code>~/Nudo-Gestion-Financiera-Tributaria</code></sub>
+
 <a href="https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&theme=tokyonight&hide_border=true" width="100%"/></a>
 SaaS para contribuyentes con RUC en Ecuador: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias.<br/>
 <code>C#</code> <code>.NET</code> <code>SaaS</code>
 </td>
 <td width="50%" valign="top">
+
+<sub>🔴 🟡 🟢 &nbsp;<code>~/Sistema-Gestion-Interna</code></sub>
+
 <a href="https://github.com/Lualvarad0/Sistema-Gestion-Interna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&theme=tokyonight&hide_border=true" width="100%"/></a>
 Sistema de gestión interna para una entidad pública: administración de colegios, luminarias, trabajadores y notificaciones. PHP MVC sin framework.<br/>
 <code>PHP</code> <code>MySQL</code> <code>MVC</code>
