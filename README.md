@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=David%20Alvarado&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%86%92%20Security%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header" width="100%"/>
+
+<h1 align="center">David Alvarado</h1>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" /></a>
 
 <a href="https://linkedin.com/in/david-alvarado-ronquillo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="https://portafolio-hwaq.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
@@ -19,14 +23,46 @@ Desarrollador full stack con experiencia real en producción — backend, fronte
 
 <br>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lualvarad0/Lualvarad0/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lualvarad0/Lualvarad0/output/github-contribution-grid-snake.svg" />
+  <img alt="contribuciones de David Alvarado" src="https://raw.githubusercontent.com/Lualvarad0/Lualvarad0/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+<br>
+
 ### 🚀 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **[Unísono](https://github.com/Lualvarad0/Unisono)** | App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, con o sin internet | `Flutter` `Firebase` `Nearby Connections` |
-| **[TallerOs](https://github.com/Lualvarad0/TallerOs)** | SaaS multi-empresa para talleres mecánicos: órdenes de trabajo tipo Jira, tiempo real por mecánico, ficha técnica del vehículo y avisos por WhatsApp/correo | `SaaS` `Multi-tenant` |
-| **[Nudo](https://github.com/Lualvarad0/Gestor-Facturas-sri)** | App gratuita y open source para organizar gastos en Ecuador: importa XML, verifica comprobantes con el SRI y clasifica por categoría | `Angular` `.NET` `PostgreSQL` |
-| **[Portafolio](https://portafolio-hwaq.vercel.app/en)** | Portafolio personal como desarrollador en transición hacia seguridad ofensiva | `Next.js` `TypeScript` |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Lualvarad0/Unisono"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&theme=tokyonight&hide_border=true" width="100%"/></a>
+App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, con o sin internet.<br/>
+<code>Flutter</code> <code>Firebase</code> <code>Nearby Connections</code>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Lualvarad0/Gestor-Facturas-sri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&theme=tokyonight&hide_border=true" width="100%"/></a>
+Nudo: app gratuita y open source para organizar gastos en Ecuador — importa XML, verifica comprobantes con el SRI y clasifica por categoría.<br/>
+<code>Angular</code> <code>.NET</code> <code>PostgreSQL</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&theme=tokyonight&hide_border=true" width="100%"/></a>
+SaaS para contribuyentes con RUC en Ecuador: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias.<br/>
+<code>C#</code> <code>.NET</code> <code>SaaS</code>
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Lualvarad0/Sistema-Gestion-Interna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&theme=tokyonight&hide_border=true" width="100%"/></a>
+Sistema de gestión interna para una entidad pública: administración de colegios, luminarias, trabajadores y notificaciones. PHP MVC sin framework.<br/>
+<code>PHP</code> <code>MySQL</code> <code>MVC</code>
+</td>
+</tr>
+</table>
 
 <br>
 
