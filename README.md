@@ -127,18 +127,6 @@ Sistema de gestión interna construido en PHP MVC sin framework: administración
 
 <p align="center"><sub><b>Seguridad</b> &nbsp;·&nbsp; OWASP Top 10 &nbsp;·&nbsp; Burp Suite &nbsp;·&nbsp; Nmap</sub></p>
 
-<br>
-
-### 📊 GitHub Metrics
-
-<div align="center">
-
-![metrics](./metrics.svg)
-
-</div>
-
-<sub>Generado automáticamente cada día por <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> (ver <code>.github/workflows/metrics.yml</code>).</sub>
-
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=4&width=100%25" width="100%"/>
