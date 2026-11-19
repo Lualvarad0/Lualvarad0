@@ -69,15 +69,14 @@ Desarrollador full stack con experiencia real en producción — backend, fronte
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lualvarad0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lualvarad0&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Lualvarad0&theme=tokyonight&hide_border=true" width="80%"/>
+![metrics](./metrics.svg)
 
 </div>
+
+<sub>Generado automáticamente cada día por <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> (ver <code>.github/workflows/metrics.yml</code>).</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
