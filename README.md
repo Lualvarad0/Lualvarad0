@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=160&section=header" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=F1F5F9&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
 
-<h1 align="center">David Alvarado</h1>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" /></a>
+<br/>
 
-<a href="https://linkedin.com/in/david-alvarado-ronquillo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://portafolio-hwaq.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-<a href="mailto:lui.alv.ron.25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/david-alvarado-ronquillo"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://portafolio-hwaq.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=38BDF8" /></a>
+<a href="mailto:lui.alv.ron.25@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
 
 </div>
 
@@ -68,39 +68,14 @@ Sistema de gestión interna para una entidad pública: administración de colegi
 
 ### 🧠 Tech Stack
 
-**Lenguajes**
+<div align="center">
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,angular,nextjs,nodejs,ts,js,php,py&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,aws,git,linux&theme=dark" />
 
-**Frameworks & Plataformas**
+</div>
 
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
-
-**Datos & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-**Seguridad**
-
-![OWASP](https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![BurpSuite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p align="center"><sub><b>Seguridad</b> &nbsp;·&nbsp; OWASP Top 10 &nbsp;·&nbsp; Burp Suite &nbsp;·&nbsp; Nmap</sub></p>
 
 <br>
 
@@ -114,4 +89,6 @@ Sistema de gestión interna para una entidad pública: administración de colegi
 
 <sub>Generado automáticamente cada día por <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a> (ver <code>.github/workflows/metrics.yml</code>).</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=100&section=footer" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=4&width=100%25" width="100%"/>
