@@ -39,7 +39,3 @@ jobs:
           # Logros estilo GitHub
           plugin_achievements: yes
           plugin_achievements_display: compact
-
-          # PageSpeed del portafolio
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: https://portafolio-hwaq.vercel.app
