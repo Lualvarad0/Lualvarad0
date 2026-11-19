@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=200&section=header&text=David%20Alvarado&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%86%92%20Security%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<a href="https://instagram.com/siulvid_alv"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/david-alvarado-ronquillo"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="https://portafolio-hwaq.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
 <a href="mailto:lui.alv.ron.25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
