@@ -62,7 +62,7 @@ Hablemos de tu proximo proyecto.
 <summary><code>~/Unisono</code> &nbsp;—&nbsp; sincroniza letras y acordes entre músicos, con o sin internet <sub>(click para expandir)</sub></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="420"/>
 
 App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, use o no internet el local. Pensada para ensayos y cultos donde la señal es el último problema que deberías tener.
 
@@ -76,7 +76,7 @@ App offline-first para equipos de alabanza: letra, acordes y tonalidades sincron
 <summary><code>~/Gestor-Facturas-sri</code> &nbsp;—&nbsp; tus gastos y el SRI, sin hojas de cálculo <sub>(click para expandir)</sub></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="420"/>
 
 App gratuita y open source para organizar gastos personales en Ecuador: importa reportes y facturas XML, verifica comprobantes directo con el SRI y clasifica cada gasto por categoría y proveedor automáticamente.
 
@@ -90,7 +90,7 @@ App gratuita y open source para organizar gastos personales en Ecuador: importa 
 <summary><code>~/Nudo-Tributario</code> &nbsp;—&nbsp; la versión SaaS, para negocios con RUC <sub>(click para expandir)</sub></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="420"/>
 
 La misma idea de Nudo, pero para contribuyentes con RUC: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias para que declarar deje de ser una adivinanza.
 
@@ -104,7 +104,7 @@ La misma idea de Nudo, pero para contribuyentes con RUC: integra comprobantes de
 <summary><code>~/Sistema-Gestion-Interna</code> &nbsp;—&nbsp; en producción en una entidad pública real <sub>(click para expandir)</sub></summary>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&theme=tokyonight&hide_border=true" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="420"/>
 
 Sistema de gestión interna construido en PHP MVC sin framework: administración de colegios, luminarias CNEL, trabajadores, roles de usuario y notificaciones. No es una demo — se usa de verdad.
 
