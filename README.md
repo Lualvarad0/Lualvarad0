@@ -45,46 +45,70 @@ Hablemos de tu proximo proyecto.
 
 ### 🚀 Proyectos destacados
 
-<p><code>$ ls -la ~/proyectos-destacados</code></p>
+<p><code>$ tree ~/proyectos-destacados -L 1</code></p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+<a href="https://github.com/Lualvarad0/Unisono"><img src="https://img.shields.io/badge/📁_Unisono-0f172a?style=flat-square&color=0f172a&labelColor=0f172a"/></a>
+<a href="https://github.com/Lualvarad0/Gestor-Facturas-sri"><img src="https://img.shields.io/badge/📁_Gestor--Facturas--sri-0f172a?style=flat-square&color=0f172a&labelColor=0f172a"/></a>
+<a href="https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria"><img src="https://img.shields.io/badge/📁_Nudo--Tributario-0f172a?style=flat-square&color=0f172a&labelColor=0f172a"/></a>
+<a href="https://github.com/Lualvarad0/Sistema-Gestion-Interna"><img src="https://img.shields.io/badge/📁_Sistema--Gestion--Interna-0f172a?style=flat-square&color=0f172a&labelColor=0f172a"/></a>
+</p>
 
-<sub>🔴 🟡 🟢 &nbsp;<code>~/Unisono</code></sub>
+<details>
+<summary><b>📁 Unisono</b> &nbsp;—&nbsp; sincroniza letras y acordes entre músicos, con o sin internet <sub>(click para expandir)</sub></summary>
+<br>
 
-<a href="https://github.com/Lualvarad0/Unisono"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&theme=tokyonight&hide_border=true" width="100%"/></a>
-App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, con o sin internet.<br/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&theme=tokyonight&hide_border=true" width="420"/>
+
+App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, use o no internet el local. Pensada para ensayos y cultos donde la señal es el último problema que deberías tener.
+
 <code>Flutter</code> <code>Firebase</code> <code>Nearby Connections</code>
-</td>
-<td width="50%" valign="top">
 
-<sub>🔴 🟡 🟢 &nbsp;<code>~/Gestor-Facturas-sri</code></sub>
+→ [Ver el código](https://github.com/Lualvarad0/Unisono)
 
-<a href="https://github.com/Lualvarad0/Gestor-Facturas-sri"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&theme=tokyonight&hide_border=true" width="100%"/></a>
-Nudo: app gratuita y open source para organizar gastos en Ecuador — importa XML, verifica comprobantes con el SRI y clasifica por categoría.<br/>
+</details>
+
+<details>
+<summary><b>📁 Gestor-Facturas-sri (Nudo)</b> &nbsp;—&nbsp; tus gastos y el SRI, sin hojas de cálculo <sub>(click para expandir)</sub></summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&theme=tokyonight&hide_border=true" width="420"/>
+
+App gratuita y open source para organizar gastos personales en Ecuador: importa reportes y facturas XML, verifica comprobantes directo con el SRI y clasifica cada gasto por categoría y proveedor automáticamente.
+
 <code>Angular</code> <code>.NET</code> <code>PostgreSQL</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-<sub>🔴 🟡 🟢 &nbsp;<code>~/Nudo-Gestion-Financiera-Tributaria</code></sub>
+→ [Ver el código](https://github.com/Lualvarad0/Gestor-Facturas-sri)
 
-<a href="https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&theme=tokyonight&hide_border=true" width="100%"/></a>
-SaaS para contribuyentes con RUC en Ecuador: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias.<br/>
+</details>
+
+<details>
+<summary><b>📁 Nudo — Gestión Financiera Tributaria</b> &nbsp;—&nbsp; la versión SaaS, para negocios con RUC <sub>(click para expandir)</sub></summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&theme=tokyonight&hide_border=true" width="420"/>
+
+La misma idea de Nudo, pero para contribuyentes con RUC: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias para que declarar deje de ser una adivinanza.
+
 <code>C#</code> <code>.NET</code> <code>SaaS</code>
-</td>
-<td width="50%" valign="top">
 
-<sub>🔴 🟡 🟢 &nbsp;<code>~/Sistema-Gestion-Interna</code></sub>
+→ [Ver el código](https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria)
 
-<a href="https://github.com/Lualvarad0/Sistema-Gestion-Interna"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&theme=tokyonight&hide_border=true" width="100%"/></a>
-Sistema de gestión interna para una entidad pública: administración de colegios, luminarias, trabajadores y notificaciones. PHP MVC sin framework.<br/>
+</details>
+
+<details>
+<summary><b>📁 Sistema-Gestion-Interna</b> &nbsp;—&nbsp; en producción en una entidad pública real <sub>(click para expandir)</sub></summary>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&theme=tokyonight&hide_border=true" width="420"/>
+
+Sistema de gestión interna construido en PHP MVC sin framework: administración de colegios, luminarias CNEL, trabajadores, roles de usuario y notificaciones. No es una demo — se usa de verdad.
+
 <code>PHP</code> <code>MySQL</code> <code>MVC</code>
-</td>
-</tr>
-</table>
+
+→ [Ver el código](https://github.com/Lualvarad0/Sistema-Gestion-Interna)
+
+</details>
 
 <br>
 
