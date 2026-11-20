@@ -27,8 +27,6 @@
                 [1;36mContact[0m  linkedin.com/in/david-alvarado-ronquillo
 ```
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=38BDF8&center=false&vCenter=true&width=620&height=32&lines=%24+whoami;David+Alvarado;%24+cat+estado.txt;Disponible+para+nuevos+retos" alt="terminal" />
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=380&height=32&lines=%24+git+log+--oneline" alt="$ git log --oneline" />
@@ -132,13 +130,52 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,flutter,cs,dotnet,angular,nextjs,nodejs,ts,js,php,py&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,aws,git,linux&theme=dark" />
+<sub><b>Lenguajes</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,php,py&theme=dark" />
+
+<br/>
+
+<sub><b>Frameworks</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,angular,nextjs,nodejs,vue,nuxtjs&theme=dark" />
+
+<br/>
+
+<sub><b>Bases de datos</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" />
+
+<br/>
+
+<sub><b>DevOps &amp; Cloud</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,linux&theme=dark" />
+
+<br/>
+
+<sub><b>Seguridad</b></sub><br/>
+<sub>OWASP Top 10 &nbsp;·&nbsp; Burp Suite &nbsp;·&nbsp; Nmap &nbsp;·&nbsp; JWT &nbsp;·&nbsp; OAuth 2.0</sub>
 
 </div>
 
-<p align="center"><sub><b>Seguridad</b> &nbsp;·&nbsp; OWASP Top 10 &nbsp;·&nbsp; Burp Suite &nbsp;·&nbsp; Nmap</sub></p>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=320&height=32&lines=%24+github-stats+--summary" alt="$ github-stats --summary" />
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lualvarad0&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b&count_private=true" width="100%"/>
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://streak-stats.demolab.com/?user=Lualvarad0&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=4&width=100%25" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=1500&pause=100000&repeat=false&color=38BDF8&center=true&vCenter=true&width=200&height=30&lines=%24+exit" alt="$ exit" />
+</p>
