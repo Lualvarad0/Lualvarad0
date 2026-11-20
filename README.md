@@ -29,10 +29,9 @@
 /'\_   _/`\     [1;36mShell[0m    OWASP Top 10 · JWT · OAuth 2.0 · Hardening Linux
 \___)=(___/     [1;36mIdiomas[0m  Español (nativo) · Inglés (técnico)
                 [1;36mContact[0m  linkedin.com/in/david-alvarado-ronquillo
-
-[1;36m$[0m echo "Hablemos de tu proximo proyecto."
-Hablemos de tu proximo proyecto.
 ```
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=38BDF8&center=false&vCenter=true&width=620&height=32&lines=%24+whoami;David+Alvarado;%24+cat+estado.txt;Disponible+para+nuevos+retos" alt="terminal" />
 
 <br>
 
@@ -53,7 +52,7 @@ Hablemos de tu proximo proyecto.
 <p><code>$ tree ~/proyectos-destacados -L 1</code></p>
 
 <a href="https://github.com/Lualvarad0/Unisono">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=130&text=Unisono&fontSize=42&fontColor=38bdf8&fontAlignY=38&desc=App%20offline-first%20para%20sincronizar%20letras%20y%20acordes%20entre%20musicos&descAlignY=72&descSize=14&descColor=f59e0b" width="100%"/>
+<img src="assets/covers/unisono.svg" width="100%"/>
 </a>
 
 <table>
@@ -84,7 +83,7 @@ Hablemos de tu proximo proyecto.
 
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestor%20de%20Facturas&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/gestor-facturas.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
@@ -99,7 +98,7 @@ Organiza gastos en Ecuador: importa facturas XML, verifica comprobantes con el S
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Nudo%20Tributario&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/nudo-tributario.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
@@ -114,7 +113,7 @@ La versión SaaS para negocios con RUC: comprobantes del SRI, deducciones y cont
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestion%20Interna&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/sistema-interna.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
