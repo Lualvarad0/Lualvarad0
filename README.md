@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/covers/hero-banner.svg" width="100%" alt="" />
+
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0284C7&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+ASP.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
@@ -131,17 +133,17 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 <div align="center">
 
 <sub><b>Lenguajes</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,php,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,php,py,cpp&theme=dark" />
 
 <br/>
 
 <sub><b>Frameworks</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dotnet,angular,nextjs,nodejs,vue,nuxtjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,angular,nextjs,nodejs,vue,nuxtjs,laravel,react&theme=dark" />
 
 <br/>
 
 <sub><b>Bases de datos</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb&theme=dark" /> <code>SQL Server</code>
 
 <br/>
 
@@ -168,7 +170,7 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 </td>
 <td width="45%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=Lualvarad0&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Lualvarad0&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="100%"/>
 
 </td>
 </tr>
