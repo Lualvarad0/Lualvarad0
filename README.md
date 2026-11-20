@@ -22,8 +22,8 @@
 [1;36mdavid@portfolio[0m
 [1;36m---------------[0m
     .--.        [1;36mOS[0m       Desarrollador Full Stack Senior · DevOps · Seguridad
-   |o_o |       [1;36mHost[0m     Áslam IT (España) — 100% remoto
-   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · .NET · TypeScript · SQL Server
+   |o_o |       [1;36mStatus[0m   Abierto a nuevas oportunidades · 100% remoto
+   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · ASP.NET · TypeScript · SQL Server
   //   \ \      [1;36mUptime[0m   3+ años construyendo software en producción
  (|     | )     [1;36mPackages[0m Ing. en Sistemas + Máster en Ciberseguridad (OBS, Madrid)
 /'\_   _/`\     [1;36mShell[0m    OWASP Top 10 · JWT · OAuth 2.0 · Hardening Linux
