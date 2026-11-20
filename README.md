@@ -19,19 +19,19 @@
 ### 🐧 whoami
 
 ```ansi
-[1;32mdavid@portfolio[0m
-[1;32m───────────────────────────────────────────────────────────[0m
-[1;32mOS[0m         Full Stack Developer → Security Enthusiast
-[1;32mHost[0m       Guayas, Ecuador
-[1;32mKernel[0m     Flutter · .NET · Angular · Node
-[1;32mUptime[0m     Construyendo Unisono (Flutter, offline-first)
-[1;32mShell[0m      OWASP Top 10, Burp Suite, Nmap — autodidacta
-[1;32mPackages[0m   SaaS para pymes: talleres mecanicos, tributario SRI
-[1;32mContact[0m    linkedin.com/in/david-alvarado-ronquillo
-
-[1;32m$[0m [1;37mecho "Hablemos de tu proximo proyecto."[0m
-Hablemos de tu proximo proyecto.
+[1;36mdavid@portfolio[0m
+[1;36m---------------[0m
+    .--.        [1;36mOS[0m       Desarrollador Full Stack Senior · DevOps · Seguridad
+   |o_o |       [1;36mHost[0m     Áslam IT (España) — 100% remoto
+   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · .NET · TypeScript · SQL Server
+  //   \ \      [1;36mUptime[0m   3+ años construyendo software en producción
+ (|     | )     [1;36mPackages[0m Ing. en Sistemas + Máster en Ciberseguridad (OBS, Madrid)
+/'\_   _/`\     [1;36mShell[0m    OWASP Top 10 · JWT · OAuth 2.0 · Hardening Linux
+\___)=(___/     [1;36mIdiomas[0m  Español (nativo) · Inglés (técnico)
+                [1;36mContact[0m  linkedin.com/in/david-alvarado-ronquillo
 ```
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=38BDF8&center=false&vCenter=true&width=620&height=32&lines=%24+whoami;David+Alvarado;%24+cat+estado.txt;Disponible+para+nuevos+retos" alt="terminal" />
 
 <br>
 
@@ -52,7 +52,7 @@ Hablemos de tu proximo proyecto.
 <p><code>$ tree ~/proyectos-destacados -L 1</code></p>
 
 <a href="https://github.com/Lualvarad0/Unisono">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=130&text=Unisono&fontSize=42&fontColor=38bdf8&fontAlignY=38&desc=App%20offline-first%20para%20sincronizar%20letras%20y%20acordes%20entre%20musicos&descAlignY=72&descSize=14&descColor=f59e0b" width="100%"/>
+<img src="assets/covers/unisono.svg" width="100%"/>
 </a>
 
 <table>
@@ -83,7 +83,7 @@ Hablemos de tu proximo proyecto.
 
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestor%20de%20Facturas&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/gestor-facturas.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
@@ -98,7 +98,7 @@ Organiza gastos en Ecuador: importa facturas XML, verifica comprobantes con el S
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Nudo%20Tributario&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/nudo-tributario.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
@@ -113,7 +113,7 @@ La versión SaaS para negocios con RUC: comprobantes del SRI, deducciones y cont
 </td>
 <td width="33%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestion%20Interna&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
+<img src="assets/covers/sistema-interna.svg" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 

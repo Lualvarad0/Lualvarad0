@@ -1,0 +1,27 @@
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-nudo" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <pattern id="dots-nudo" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.1" fill="#38bdf8" opacity="0.22"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="160" fill="url(#bg-nudo)"/>
+  <rect width="800" height="160" fill="url(#dots-nudo)"/>
+
+  <text x="40" y="68" font-family="Verdana, Geneva, sans-serif" font-size="29" font-weight="700" fill="#38bdf8">Nudo Tributario</text>
+  <text x="42" y="94" font-family="Verdana, Geneva, sans-serif" font-size="15" fill="#f59e0b">La version SaaS, para negocios con RUC</text>
+
+  <g>
+    <rect x="618" y="98" width="20" height="40" fill="#38bdf8"/>
+    <rect x="648" y="73" width="20" height="65" fill="#38bdf8"/>
+    <rect x="678" y="48" width="20" height="90" fill="#38bdf8"/>
+
+    <circle cx="735" cy="100" r="17" fill="#f59e0b" stroke="#0f172a" stroke-width="2"/>
+    <circle cx="735" cy="82" r="17" fill="#f59e0b" stroke="#0f172a" stroke-width="2" opacity="0.85"/>
+    <circle cx="735" cy="64" r="17" fill="#f59e0b" stroke="#0f172a" stroke-width="2" opacity="0.7"/>
+    <text x="728" y="105" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" fill="#0f172a">$</text>
+  </g>
+</svg>
