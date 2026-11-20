@@ -1,12 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=F1F5F9&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0F172A&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0F172A&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0284C7&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+ASP.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
 
 <br/>
 
