@@ -12,7 +12,7 @@
 
 </div>
 
-### 🐧 whoami
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=180&height=32&lines=%24+whoami" alt="$ whoami" />
 
 ```ansi
 [1;36mdavid@portfolio[0m
@@ -31,6 +31,8 @@
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=380&height=32&lines=%24+git+log+--oneline" alt="$ git log --oneline" />
+
 <div align="center">
 
 <picture>
@@ -43,9 +45,7 @@
 
 <br>
 
-### 🚀 Proyectos destacados
-
-<p><code>$ tree ~/proyectos-destacados -L 1</code></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=380&height=32&lines=%24+ls+proyectos-destacados%2F" alt="$ ls proyectos-destacados/" />
 
 <a href="https://github.com/Lualvarad0/Unisono">
 <img src="assets/covers/unisono.svg" width="100%"/>
@@ -128,7 +128,7 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 
 <br>
 
-### 🧠 Tech Stack
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=300&height=32&lines=%24+cat+tech-stack.sh" alt="$ cat tech-stack.sh" />
 
 <div align="center">
 
