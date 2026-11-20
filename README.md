@@ -51,112 +51,84 @@ Hablemos de tu proximo proyecto.
 
 <p><code>$ tree ~/proyectos-destacados -L 1</code></p>
 
-<p align="center">
-<a href="https://github.com/Lualvarad0/Unisono"><code>cd ~/Unisono</code></a> &nbsp;·&nbsp;
-<a href="https://github.com/Lualvarad0/Gestor-Facturas-sri"><code>cd ~/Gestor-Facturas-sri</code></a> &nbsp;·&nbsp;
-<a href="https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria"><code>cd ~/Nudo-Tributario</code></a> &nbsp;·&nbsp;
-<a href="https://github.com/Lualvarad0/Sistema-Gestion-Interna"><code>cd ~/Sistema-Gestion-Interna</code></a>
-</p>
+<a href="https://github.com/Lualvarad0/Unisono">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=130&text=Unisono&fontSize=42&fontColor=38bdf8&fontAlignY=38&desc=App%20offline-first%20para%20sincronizar%20letras%20y%20acordes%20entre%20musicos&descAlignY=72&descSize=14&descColor=f59e0b" width="100%"/>
+</a>
 
-<details>
-<summary><code>~/Unisono</code> &nbsp;—&nbsp; sincroniza letras y acordes entre músicos, con o sin internet <sub>(click para expandir)</sub></summary>
-<br>
-
-<table><tr>
-<td width="60%">
+<table>
+<tr>
+<td width="60%" valign="top">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Unisono&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
 </td>
-<td width="40%" align="center">
+<td width="40%" valign="top" align="center">
 
 <img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark" />
 
 </td>
-</tr></table>
+</tr>
+</table>
 
-App offline-first para equipos de alabanza: letra, acordes y tonalidades sincronizados en tiempo real entre celulares, use o no internet el local. Pensada para ensayos y cultos donde la señal es el último problema que deberías tener.
+**Proyecto insignia.** App offline-first para equipos de alabanza: letra, acordes y tonalidad sincronizados en tiempo real entre celulares, con o sin internet local. Pensada para ensayos y cultos donde la señal es el último problema que deberías tener.
 
 <code>Flutter</code> <code>Firebase</code> <code>Nearby Connections</code>
 
 → [Ver el código](https://github.com/Lualvarad0/Unisono)
 
-</details>
-
-<details>
-<summary><code>~/Gestor-Facturas-sri</code> &nbsp;—&nbsp; tus gastos y el SRI, sin hojas de cálculo <sub>(click para expandir)</sub></summary>
 <br>
 
-<table><tr>
-<td width="60%">
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestor%20de%20Facturas&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Gestor-Facturas-sri&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
-</td>
-<td width="40%" align="center">
+<p align="center"><img src="https://skillicons.dev/icons?i=angular,dotnet,postgres&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=angular,dotnet,postgres&theme=dark" />
-
-</td>
-</tr></table>
-
-App gratuita y open source para organizar gastos personales en Ecuador: importa reportes y facturas XML, verifica comprobantes directo con el SRI y clasifica cada gasto por categoría y proveedor automáticamente.
+Organiza gastos en Ecuador: importa facturas XML, verifica comprobantes con el SRI y clasifica todo por categoría, automáticamente.
 
 <code>Angular</code> <code>.NET</code> <code>PostgreSQL</code>
 
-→ [Ver el código](https://github.com/Lualvarad0/Gestor-Facturas-sri)
+→ [Código](https://github.com/Lualvarad0/Gestor-Facturas-sri)
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><code>~/Nudo-Tributario</code> &nbsp;—&nbsp; la versión SaaS, para negocios con RUC <sub>(click para expandir)</sub></summary>
-<br>
-
-<table><tr>
-<td width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Nudo%20Tributario&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Nudo-Gestion-Financiera-Tributaria&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
-</td>
-<td width="40%" align="center">
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" />
-
-</td>
-</tr></table>
-
-La misma idea de Nudo, pero para contribuyentes con RUC: integra comprobantes del SRI, categoriza gastos y controla deducciones tributarias para que declarar deje de ser una adivinanza.
+La versión SaaS para negocios con RUC: comprobantes del SRI, deducciones y control tributario sin adivinanzas.
 
 <code>C#</code> <code>.NET</code> <code>SaaS</code>
 
-→ [Ver el código](https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria)
+→ [Código](https://github.com/Lualvarad0/Nudo-Gestion-Financiera-Tributaria)
 
-</details>
+</td>
+<td width="33%" valign="top">
 
-<details>
-<summary><code>~/Sistema-Gestion-Interna</code> &nbsp;—&nbsp; en producción en una entidad pública real <sub>(click para expandir)</sub></summary>
-<br>
-
-<table><tr>
-<td width="60%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=90&text=Gestion%20Interna&fontSize=22&fontColor=38bdf8&fontAlignY=55" width="100%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lualvarad0&repo=Sistema-Gestion-Interna&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0&icon_color=f59e0b" width="100%"/>
 
-</td>
-<td width="40%" align="center">
+<p align="center"><img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" /></p>
 
-<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" />
-
-</td>
-</tr></table>
-
-Sistema de gestión interna construido en PHP MVC sin framework: administración de colegios, luminarias CNEL, trabajadores, roles de usuario y notificaciones. No es una demo — se usa de verdad.
+PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y notificaciones. No es una demo.
 
 <code>PHP</code> <code>MySQL</code> <code>MVC</code>
 
-→ [Ver el código](https://github.com/Lualvarad0/Sistema-Gestion-Interna)
+→ [Código](https://github.com/Lualvarad0/Sistema-Gestion-Interna)
 
-</details>
+</td>
+
+</tr>
+</table>
 
 <br>
 
