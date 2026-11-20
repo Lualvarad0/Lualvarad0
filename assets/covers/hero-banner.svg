@@ -6,183 +6,532 @@
     </radialGradient>
   </defs>
   <rect width="1200" height="260" fill="#030712"/>
-  <rect width="1200" height="260" fill="url(#hero-core)"/>
-  <path d="M 83.0 28.0 Q 217.0 118.2 350.9 206.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.21"/>
-  <path d="M 83.0 28.0 Q 215.3 35.9 347.6 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 87.0 79.0 Q 217.3 105.7 347.6 130.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 87.0 79.0 Q 217.0 152.2 347.0 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 93.2 130.0 Q 216.5 157.3 339.7 181.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 93.2 130.0 Q 218.2 105.8 343.2 79.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 93.2 130.0 Q 222.1 145.2 350.9 155.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 87.6 181.0 Q 219.3 195.0 350.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.38"/>
-  <path d="M 87.6 181.0 Q 218.5 111.2 349.4 53.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 93.6 232.0 Q 222.2 188.5 350.9 155.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 93.6 232.0 Q 220.3 225.1 347.0 232.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.30"/>
-  <path d="M 93.6 232.0 Q 216.6 203.5 339.7 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.23"/>
-  <path d="M 347.6 28.0 Q 476.7 115.4 605.7 198.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 347.6 28.0 Q 476.7 34.7 605.8 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.21"/>
-  <path d="M 349.4 53.5 Q 473.8 136.8 598.1 215.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 349.4 53.5 Q 475.9 140.8 602.3 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27"/>
-  <path d="M 349.4 53.5 Q 472.3 63.5 595.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27"/>
-  <path d="M 343.2 79.0 Q 470.7 145.2 598.1 215.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 343.2 79.0 Q 471.1 123.3 598.9 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27"/>
-  <path d="M 343.2 79.0 Q 474.0 64.3 604.7 62.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.40"/>
-  <path d="M 347.8 104.5 Q 472.9 151.7 598.1 215.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 347.8 104.5 Q 473.0 74.3 598.2 45.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.35"/>
-  <path d="M 347.8 104.5 Q 475.0 166.0 602.3 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.28"/>
-  <path d="M 347.6 130.0 Q 474.2 139.6 600.8 164.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 347.6 130.0 Q 473.2 157.9 598.9 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19"/>
-  <path d="M 350.9 155.5 Q 472.4 149.5 593.8 147.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.24"/>
-  <path d="M 350.9 155.5 Q 473.0 116.5 595.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20"/>
-  <path d="M 339.7 181.0 Q 472.7 182.3 605.7 198.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.33"/>
-  <path d="M 339.7 181.0 Q 471.0 212.6 602.3 232.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.31"/>
-  <path d="M 339.7 181.0 Q 469.3 176.9 598.9 181.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 339.7 181.0 Q 469.0 109.5 598.2 45.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 350.9 206.5 Q 478.3 110.4 605.8 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.22"/>
-  <path d="M 350.9 206.5 Q 474.6 120.4 598.2 45.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.23"/>
-  <path d="M 347.0 232.0 Q 474.7 230.9 602.3 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.35"/>
-  <path d="M 347.0 232.0 Q 476.6 167.1 606.1 113.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 347.0 232.0 Q 475.9 148.9 604.7 62.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.21"/>
-  <path d="M 605.8 28.0 Q 731.2 80.4 856.6 130.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.31"/>
-  <path d="M 605.8 28.0 Q 729.7 45.3 853.7 53.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 605.8 28.0 Q 733.2 96.9 860.7 155.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20"/>
-  <path d="M 605.8 28.0 Q 729.2 66.1 852.7 104.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 598.2 45.0 Q 725.4 81.4 852.7 104.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.38"/>
-  <path d="M 598.2 45.0 Q 729.1 116.3 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 604.7 62.0 Q 730.8 127.4 856.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26"/>
-  <path d="M 604.7 62.0 Q 728.7 85.5 852.7 104.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.30"/>
-  <path d="M 604.7 62.0 Q 732.4 125.8 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 595.1 79.0 Q 725.1 162.5 855.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.39"/>
-  <path d="M 595.1 79.0 Q 723.9 93.2 852.7 104.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 595.1 79.0 Q 727.6 138.4 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.35"/>
-  <path d="M 599.0 96.0 Q 726.1 83.7 853.1 79.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 599.0 96.0 Q 727.0 172.9 855.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 606.1 113.0 Q 729.4 100.4 852.7 104.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 606.1 113.0 Q 729.6 88.9 853.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27"/>
-  <path d="M 606.1 113.0 Q 729.9 79.8 853.7 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.38"/>
-  <path d="M 603.2 130.0 Q 727.9 123.7 852.7 104.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.21"/>
-  <path d="M 603.2 130.0 Q 728.2 111.7 853.1 79.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 603.2 130.0 Q 728.4 95.8 853.7 53.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 603.2 130.0 Q 731.6 156.3 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.23"/>
-  <path d="M 593.8 147.0 Q 727.0 159.3 860.1 181.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 593.8 147.0 Q 727.3 151.9 860.7 155.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.31"/>
-  <path d="M 593.8 147.0 Q 723.7 105.2 853.7 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.39"/>
-  <path d="M 600.8 164.0 Q 730.8 154.1 860.7 155.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 600.8 164.0 Q 728.0 101.6 855.2 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.23"/>
-  <path d="M 598.9 181.0 Q 726.0 133.3 853.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 598.9 181.0 Q 727.9 195.2 856.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19"/>
-  <path d="M 598.9 181.0 Q 729.5 189.1 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.33"/>
-  <path d="M 605.7 198.0 Q 730.5 109.5 855.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 605.7 198.0 Q 729.2 142.8 852.7 104.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 605.7 198.0 Q 730.4 219.2 855.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 605.7 198.0 Q 729.7 126.0 853.7 53.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.39"/>
-  <path d="M 598.1 215.0 Q 726.7 123.6 855.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 598.1 215.0 Q 726.6 227.0 855.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19"/>
-  <path d="M 602.3 232.0 Q 731.5 197.0 860.7 155.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 602.3 232.0 Q 727.7 147.3 853.1 79.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 602.3 232.0 Q 728.8 133.7 855.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 855.2 28.0 Q 983.2 87.7 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.31"/>
-  <path d="M 855.2 28.0 Q 984.7 136.2 1114.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.34"/>
-  <path d="M 855.2 28.0 Q 981.4 107.7 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19"/>
-  <path d="M 853.7 53.5 Q 982.4 93.0 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 853.7 53.5 Q 984.9 35.7 1116.2 28.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.85"/>
-  <path d="M 853.7 53.5 Q 983.3 68.6 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 853.1 79.0 Q 984.6 54.7 1116.2 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 852.7 104.5 Q 982.8 90.7 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 852.7 104.5 Q 984.4 57.7 1116.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.32"/>
-  <path d="M 852.7 104.5 Q 981.9 123.8 1111.2 130.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.35"/>
-  <path d="M 852.7 104.5 Q 980.1 145.5 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 856.6 130.0 Q 983.9 138.6 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 856.6 130.0 Q 985.4 177.5 1114.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 860.7 155.5 Q 987.4 198.1 1114.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.33"/>
-  <path d="M 860.7 155.5 Q 986.8 125.1 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.37"/>
-  <path d="M 860.7 155.5 Q 988.4 93.0 1116.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 860.7 155.5 Q 986.0 145.0 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19"/>
-  <path d="M 860.1 181.0 Q 988.1 99.1 1116.2 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 860.1 181.0 Q 983.9 176.4 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.36"/>
-  <path d="M 856.9 206.5 Q 984.0 167.3 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.30"/>
-  <path d="M 856.9 206.5 Q 982.3 192.5 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.29"/>
-  <path d="M 855.1 232.0 Q 981.3 198.4 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24"/>
-  <circle cx="83.0" cy="28.0" r="11.0" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="83.0" cy="28.0" r="5.0" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="87.0" cy="79.0" r="6.9" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="87.0" cy="79.0" r="3.1" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="93.2" cy="130.0" r="8.8" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="93.2" cy="130.0" r="4.0" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="87.6" cy="181.0" r="10.0" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="87.6" cy="181.0" r="4.6" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="93.6" cy="232.0" r="8.8" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="93.6" cy="232.0" r="4.0" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="347.6" cy="28.0" r="9.4" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="347.6" cy="28.0" r="4.3" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="349.4" cy="53.5" r="7.1" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="349.4" cy="53.5" r="3.2" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="343.2" cy="79.0" r="9.8" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="343.2" cy="79.0" r="4.4" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="347.8" cy="104.5" r="6.0" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="347.8" cy="104.5" r="2.7" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="347.6" cy="130.0" r="8.4" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="347.6" cy="130.0" r="3.8" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="350.9" cy="155.5" r="10.3" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="350.9" cy="155.5" r="4.7" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="339.7" cy="181.0" r="8.7" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="339.7" cy="181.0" r="3.9" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="350.9" cy="206.5" r="9.7" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="350.9" cy="206.5" r="4.4" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="347.0" cy="232.0" r="9.0" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="347.0" cy="232.0" r="4.1" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="605.8" cy="28.0" r="15.9" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="605.8" cy="28.0" r="5.0" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="598.2" cy="45.0" r="11.1" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="598.2" cy="45.0" r="3.5" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="604.7" cy="62.0" r="11.1" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="604.7" cy="62.0" r="3.5" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="595.1" cy="79.0" r="10.8" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="595.1" cy="79.0" r="3.4" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="599.0" cy="96.0" r="10.8" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="599.0" cy="96.0" r="3.4" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="606.1" cy="113.0" r="13.0" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="606.1" cy="113.0" r="4.0" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="603.2" cy="130.0" r="15.6" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="603.2" cy="130.0" r="4.9" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="593.8" cy="147.0" r="10.6" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="593.8" cy="147.0" r="3.3" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="600.8" cy="164.0" r="12.6" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="600.8" cy="164.0" r="3.9" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="598.9" cy="181.0" r="9.9" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="598.9" cy="181.0" r="3.1" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="605.7" cy="198.0" r="8.8" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="605.7" cy="198.0" r="2.7" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="598.1" cy="215.0" r="11.2" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="598.1" cy="215.0" r="3.5" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="602.3" cy="232.0" r="16.0" fill="#F8FAFC" opacity="0.12"/>
-  <circle cx="602.3" cy="232.0" r="5.0" fill="#F8FAFC" opacity="0.95"/>
-  <circle cx="855.2" cy="28.0" r="6.7" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="855.2" cy="28.0" r="3.0" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="853.7" cy="53.5" r="7.3" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="853.7" cy="53.5" r="3.3" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="853.1" cy="79.0" r="8.1" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="853.1" cy="79.0" r="3.7" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="852.7" cy="104.5" r="8.8" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="852.7" cy="104.5" r="4.0" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="856.6" cy="130.0" r="7.1" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="856.6" cy="130.0" r="3.2" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="860.7" cy="155.5" r="8.3" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="860.7" cy="155.5" r="3.8" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="860.1" cy="181.0" r="9.4" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="860.1" cy="181.0" r="4.3" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="856.9" cy="206.5" r="8.7" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="856.9" cy="206.5" r="3.9" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="855.1" cy="232.0" r="9.7" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="855.1" cy="232.0" r="4.4" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="1116.2" cy="28.0" r="8.0" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="1116.2" cy="28.0" r="3.6" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="1112.9" cy="79.0" r="7.2" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="1112.9" cy="79.0" r="3.3" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="1111.2" cy="130.0" r="7.7" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="1111.2" cy="130.0" r="3.5" fill="#38BDF8" opacity="0.95"/>
-  <circle cx="1107.6" cy="181.0" r="8.0" fill="#F59E0B" opacity="0.12"/>
-  <circle cx="1107.6" cy="181.0" r="3.6" fill="#F59E0B" opacity="0.95"/>
-  <circle cx="1114.1" cy="232.0" r="10.7" fill="#38BDF8" opacity="0.12"/>
-  <circle cx="1114.1" cy="232.0" r="4.9" fill="#38BDF8" opacity="0.95"/>
+  <rect width="1200" height="260" fill="url(#hero-core)">
+    <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite" />
+  </rect>
+  <path d="M 83.0 28.0 Q 217.0 125.4 350.9 206.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.42;0.14" dur="3.07s" begin="0.09s" repeatCount="indefinite" />
+  </path>
+  <path d="M 83.0 28.0 Q 215.0 134.2 347.0 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.49;0.14" dur="3.53s" begin="1.84s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.0 79.0 Q 218.2 69.7 349.4 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.58;0.26" dur="3.90s" begin="0.14s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.0 79.0 Q 217.0 159.2 347.0 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.12">
+    <animate attributeName="opacity" values="0.12;0.45;0.12" dur="4.56s" begin="2.54s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.0 79.0 Q 217.3 56.7 347.6 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.55;0.16" dur="3.65s" begin="0.66s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.2 130.0 Q 216.5 157.8 339.7 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.47;0.16" dur="3.65s" begin="1.32s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.2 130.0 Q 220.1 172.4 347.0 232.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.12">
+    <animate attributeName="opacity" values="0.12;0.58;0.12" dur="4.30s" begin="1.96s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.2 130.0 Q 222.1 151.3 350.9 155.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.08s" begin="2.23s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.6 181.0 Q 218.5 125.1 349.4 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.45;0.23" dur="3.66s" begin="1.87s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.6 181.0 Q 215.4 124.6 343.2 79.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.13">
+    <animate attributeName="opacity" values="0.13;0.55;0.13" dur="2.93s" begin="1.34s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.6 181.0 Q 213.7 179.8 339.7 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.13">
+    <animate attributeName="opacity" values="0.13;0.42;0.13" dur="2.50s" begin="1.70s" repeatCount="indefinite" />
+  </path>
+  <path d="M 87.6 181.0 Q 217.3 211.6 347.0 232.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.41;0.26" dur="4.25s" begin="0.26s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.6 232.0 Q 222.2 215.8 350.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.48;0.24" dur="3.75s" begin="1.27s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.6 232.0 Q 218.4 152.2 343.2 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.45;0.18" dur="3.04s" begin="0.22s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.6 232.0 Q 220.7 165.9 347.8 104.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.52;0.18" dur="3.35s" begin="1.91s" repeatCount="indefinite" />
+  </path>
+  <path d="M 93.6 232.0 Q 216.6 206.6 339.7 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="3.60s" begin="1.30s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.6 28.0 Q 474.9 132.2 602.3 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.58;0.26" dur="4.38s" begin="2.84s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.6 28.0 Q 476.2 44.3 604.7 62.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.23s" begin="2.94s" repeatCount="indefinite" />
+  </path>
+  <path d="M 349.4 53.5 Q 471.6 102.9 593.8 147.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.44;0.20" dur="3.29s" begin="1.88s" repeatCount="indefinite" />
+  </path>
+  <path d="M 349.4 53.5 Q 477.8 75.2 606.1 113.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.51;0.20" dur="3.03s" begin="0.08s" repeatCount="indefinite" />
+  </path>
+  <path d="M 349.4 53.5 Q 476.3 97.9 603.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.41;0.24" dur="2.65s" begin="0.72s" repeatCount="indefinite" />
+  </path>
+  <path d="M 343.2 79.0 Q 468.5 116.0 593.8 147.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.45;0.17" dur="2.89s" begin="0.82s" repeatCount="indefinite" />
+  </path>
+  <path d="M 343.2 79.0 Q 472.0 115.0 600.8 164.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.07s" begin="0.92s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.8 104.5 Q 476.7 153.5 605.7 198.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.59;0.23" dur="4.06s" begin="0.04s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.8 104.5 Q 476.8 72.1 605.8 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.58;0.24" dur="4.40s" begin="2.31s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.8 104.5 Q 473.0 82.9 598.2 45.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.56s" begin="0.54s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.6 130.0 Q 476.7 70.7 605.8 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.43;0.15" dur="4.56s" begin="1.43s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.6 130.0 Q 476.1 92.0 604.7 62.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.60;0.19" dur="3.55s" begin="2.51s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 155.5 Q 475.9 163.5 600.8 164.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.41;0.19" dur="4.14s" begin="0.03s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 155.5 Q 477.8 101.8 604.7 62.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.59;0.14" dur="3.76s" begin="2.25s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 155.5 Q 477.1 135.3 603.2 130.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.43;0.22" dur="3.03s" begin="1.22s" repeatCount="indefinite" />
+  </path>
+  <path d="M 339.7 181.0 Q 467.4 134.9 595.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.60;0.20" dur="3.89s" begin="1.89s" repeatCount="indefinite" />
+  </path>
+  <path d="M 339.7 181.0 Q 472.7 98.3 605.8 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.12">
+    <animate attributeName="opacity" values="0.12;0.40;0.12" dur="4.45s" begin="2.99s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 206.5 Q 474.6 127.9 598.2 45.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.55;0.24" dur="3.99s" begin="0.48s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 206.5 Q 478.5 166.8 606.1 113.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.53;0.25" dur="2.75s" begin="1.03s" repeatCount="indefinite" />
+  </path>
+  <path d="M 350.9 206.5 Q 472.4 180.3 593.8 147.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.50;0.20" dur="3.33s" begin="1.39s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.0 232.0 Q 473.0 215.2 598.9 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.58;0.24" dur="3.39s" begin="1.65s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.0 232.0 Q 476.4 217.9 605.7 198.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.59;0.20" dur="2.62s" begin="0.51s" repeatCount="indefinite" />
+  </path>
+  <path d="M 347.0 232.0 Q 474.7 226.3 602.3 232.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.24s" begin="1.01s" repeatCount="indefinite" />
+  </path>
+  <path d="M 605.8 28.0 Q 731.3 126.2 856.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27">
+    <animate attributeName="opacity" values="0.27;0.56;0.27" dur="3.59s" begin="0.39s" repeatCount="indefinite" />
+  </path>
+  <path d="M 605.8 28.0 Q 729.7 40.4 853.7 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.58;0.14" dur="3.52s" begin="0.04s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.2 45.0 Q 729.1 113.8 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.51;0.26" dur="4.20s" begin="1.30s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.2 45.0 Q 727.5 120.6 856.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.48;0.19" dur="2.55s" begin="1.91s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.2 45.0 Q 725.9 48.1 853.7 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.56;0.26" dur="2.69s" begin="2.50s" repeatCount="indefinite" />
+  </path>
+  <path d="M 604.7 62.0 Q 732.4 112.9 860.1 181.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.41s" begin="2.16s" repeatCount="indefinite" />
+  </path>
+  <path d="M 604.7 62.0 Q 728.9 77.5 853.1 79.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.87s" begin="2.05s" repeatCount="indefinite" />
+  </path>
+  <path d="M 604.7 62.0 Q 729.2 63.9 853.7 53.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.01s" begin="2.03s" repeatCount="indefinite" />
+  </path>
+  <path d="M 595.1 79.0 Q 725.1 154.9 855.1 232.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.27">
+    <animate attributeName="opacity" values="0.27;0.54;0.27" dur="2.40s" begin="0.37s" repeatCount="indefinite" />
+  </path>
+  <path d="M 595.1 79.0 Q 724.4 58.9 853.7 53.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.12">
+    <animate attributeName="opacity" values="0.12;0.56;0.12" dur="2.53s" begin="1.55s" repeatCount="indefinite" />
+  </path>
+  <path d="M 595.1 79.0 Q 727.9 110.4 860.7 155.5" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.89s" begin="1.08s" repeatCount="indefinite" />
+  </path>
+  <path d="M 595.1 79.0 Q 724.1 81.8 853.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.52;0.21" dur="2.94s" begin="0.74s" repeatCount="indefinite" />
+  </path>
+  <path d="M 599.0 96.0 Q 729.5 142.4 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.41;0.14" dur="4.05s" begin="2.04s" repeatCount="indefinite" />
+  </path>
+  <path d="M 599.0 96.0 Q 729.8 132.3 860.7 155.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.16">
+    <animate attributeName="opacity" values="0.16;0.44;0.16" dur="2.80s" begin="0.83s" repeatCount="indefinite" />
+  </path>
+  <path d="M 606.1 113.0 Q 729.6 96.8 853.1 79.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.29s" begin="1.78s" repeatCount="indefinite" />
+  </path>
+  <path d="M 606.1 113.0 Q 733.1 145.3 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.23">
+    <animate attributeName="opacity" values="0.23;0.56;0.23" dur="3.61s" begin="2.64s" repeatCount="indefinite" />
+  </path>
+  <path d="M 606.1 113.0 Q 730.7 76.8 855.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.48;0.25" dur="3.30s" begin="1.08s" repeatCount="indefinite" />
+  </path>
+  <path d="M 606.1 113.0 Q 731.5 168.3 856.9 206.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27">
+    <animate attributeName="opacity" values="0.27;0.57;0.27" dur="4.03s" begin="2.81s" repeatCount="indefinite" />
+  </path>
+  <path d="M 603.2 130.0 Q 731.6 150.8 860.1 181.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="4.51s" begin="2.77s" repeatCount="indefinite" />
+  </path>
+  <path d="M 603.2 130.0 Q 729.1 184.8 855.1 232.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.65s" begin="1.94s" repeatCount="indefinite" />
+  </path>
+  <path d="M 593.8 147.0 Q 723.5 120.1 853.1 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27">
+    <animate attributeName="opacity" values="0.27;0.46;0.27" dur="2.80s" begin="1.44s" repeatCount="indefinite" />
+  </path>
+  <path d="M 593.8 147.0 Q 723.7 99.2 853.7 53.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.21">
+    <animate attributeName="opacity" values="0.21;0.43;0.21" dur="4.09s" begin="2.24s" repeatCount="indefinite" />
+  </path>
+  <path d="M 600.8 164.0 Q 728.7 150.5 856.6 130.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.75s" begin="0.02s" repeatCount="indefinite" />
+  </path>
+  <path d="M 600.8 164.0 Q 728.0 92.3 855.2 28.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.56;0.19" dur="4.07s" begin="1.68s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.9 181.0 Q 727.7 147.1 856.6 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.59;0.22" dur="3.61s" begin="2.78s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.9 181.0 Q 729.5 172.2 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.56;0.22" dur="4.50s" begin="2.00s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.9 181.0 Q 726.3 118.1 853.7 53.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.22">
+    <animate attributeName="opacity" values="0.22;0.49;0.22" dur="4.29s" begin="2.75s" repeatCount="indefinite" />
+  </path>
+  <path d="M 605.7 198.0 Q 731.2 171.5 856.6 130.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.52s" begin="2.26s" repeatCount="indefinite" />
+  </path>
+  <path d="M 605.7 198.0 Q 730.5 110.5 855.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.53;0.15" dur="3.94s" begin="0.27s" repeatCount="indefinite" />
+  </path>
+  <path d="M 605.7 198.0 Q 729.7 124.2 853.7 53.5" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.57s" begin="0.91s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.1 215.0 Q 727.5 208.4 856.9 206.5" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.17">
+    <animate attributeName="opacity" values="0.17;0.48;0.17" dur="3.09s" begin="1.17s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.1 215.0 Q 726.6 214.7 855.1 232.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.27s" begin="1.25s" repeatCount="indefinite" />
+  </path>
+  <path d="M 598.1 215.0 Q 725.9 139.7 853.7 53.5" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.13">
+    <animate attributeName="opacity" values="0.13;0.43;0.13" dur="4.20s" begin="0.16s" repeatCount="indefinite" />
+  </path>
+  <path d="M 602.3 232.0 Q 731.2 205.5 860.1 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.46;0.25" dur="3.66s" begin="1.90s" repeatCount="indefinite" />
+  </path>
+  <path d="M 602.3 232.0 Q 729.4 174.4 856.6 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.57;0.26" dur="2.66s" begin="1.21s" repeatCount="indefinite" />
+  </path>
+  <path d="M 855.2 28.0 Q 984.7 121.8 1114.1 232.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.28">
+    <animate attributeName="opacity" values="0.28;0.54;0.28" dur="3.01s" begin="1.99s" repeatCount="indefinite" />
+  </path>
+  <path d="M 855.2 28.0 Q 984.1 47.8 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.43;0.26" dur="4.53s" begin="2.66s" repeatCount="indefinite" />
+  </path>
+  <path d="M 855.2 28.0 Q 981.4 105.6 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.57;0.25" dur="2.75s" begin="1.26s" repeatCount="indefinite" />
+  </path>
+  <path d="M 853.7 53.5 Q 983.3 69.9 1112.9 79.0" stroke="#F59E0B" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="3.02s" begin="1.31s" repeatCount="indefinite" />
+  </path>
+  <path d="M 853.7 53.5 Q 982.4 88.3 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.57;0.26" dur="3.26s" begin="0.59s" repeatCount="indefinite" />
+  </path>
+  <path d="M 853.1 79.0 Q 983.0 70.1 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.18">
+    <animate attributeName="opacity" values="0.18;0.51;0.18" dur="2.88s" begin="1.87s" repeatCount="indefinite" />
+  </path>
+  <path d="M 853.1 79.0 Q 980.4 132.8 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.20">
+    <animate attributeName="opacity" values="0.20;0.45;0.20" dur="2.47s" begin="2.82s" repeatCount="indefinite" />
+  </path>
+  <path d="M 852.7 104.5 Q 982.8 84.3 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.27">
+    <animate attributeName="opacity" values="0.27;0.51;0.27" dur="2.64s" begin="2.17s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.6 130.0 Q 983.9 133.3 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.15">
+    <animate attributeName="opacity" values="0.15;0.44;0.15" dur="3.90s" begin="1.74s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.6 130.0 Q 986.4 86.9 1116.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.53;0.26" dur="2.53s" begin="0.73s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.6 130.0 Q 984.8 98.5 1112.9 79.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.43;0.14" dur="3.21s" begin="0.98s" repeatCount="indefinite" />
+  </path>
+  <path d="M 860.7 155.5 Q 986.0 137.4 1111.2 130.0" stroke="#38BDF8" stroke-width="1.6" fill="none" opacity="0.55">
+    <animate attributeName="opacity" values="0.55;0.95;0.55" dur="2.47s" begin="0.46s" repeatCount="indefinite" />
+  </path>
+  <path d="M 860.7 155.5 Q 984.2 168.4 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.14">
+    <animate attributeName="opacity" values="0.14;0.57;0.14" dur="4.54s" begin="0.46s" repeatCount="indefinite" />
+  </path>
+  <path d="M 860.1 181.0 Q 986.5 130.3 1112.9 79.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.19">
+    <animate attributeName="opacity" values="0.19;0.44;0.19" dur="3.78s" begin="0.38s" repeatCount="indefinite" />
+  </path>
+  <path d="M 860.1 181.0 Q 983.9 188.5 1107.6 181.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.50;0.25" dur="3.88s" begin="2.17s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.9 206.5 Q 982.3 201.6 1107.6 181.0" stroke="#F59E0B" stroke-width="0.8" fill="none" opacity="0.24">
+    <animate attributeName="opacity" values="0.24;0.58;0.24" dur="3.92s" begin="0.44s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.9 206.5 Q 984.0 166.2 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.28">
+    <animate attributeName="opacity" values="0.28;0.41;0.28" dur="3.38s" begin="0.83s" repeatCount="indefinite" />
+  </path>
+  <path d="M 856.9 206.5 Q 986.5 110.9 1116.2 28.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.26">
+    <animate attributeName="opacity" values="0.26;0.54;0.26" dur="3.29s" begin="2.37s" repeatCount="indefinite" />
+  </path>
+  <path d="M 855.1 232.0 Q 983.1 183.6 1111.2 130.0" stroke="#38BDF8" stroke-width="0.8" fill="none" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.54;0.25" dur="3.89s" begin="2.44s" repeatCount="indefinite" />
+  </path>
+  <circle cx="83.0" cy="28.0" r="11.0" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.57s" begin="0.01s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="83.0" cy="28.0" r="5.0" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.60;1;0.60" dur="2.57s" begin="0.01s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="87.0" cy="79.0" r="6.9" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.80s" begin="2.21s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="87.0" cy="79.0" r="3.1" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.67;1;0.67" dur="2.80s" begin="2.21s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="93.2" cy="130.0" r="8.8" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.98s" begin="1.08s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="93.2" cy="130.0" r="4.0" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.98s" begin="1.08s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="87.6" cy="181.0" r="10.0" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.61s" begin="0.01s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="87.6" cy="181.0" r="4.6" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.61s" begin="0.01s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="93.6" cy="232.0" r="8.8" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.30s" begin="0.47s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="93.6" cy="232.0" r="4.0" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.62;1;0.62" dur="2.30s" begin="0.47s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.6" cy="28.0" r="9.4" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.55s" begin="0.30s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.6" cy="28.0" r="4.3" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.55s" begin="0.30s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="349.4" cy="53.5" r="7.1" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.61s" begin="2.42s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="349.4" cy="53.5" r="3.2" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="2.61s" begin="2.42s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="343.2" cy="79.0" r="9.8" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.94s" begin="2.50s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="343.2" cy="79.0" r="4.4" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.61;1;0.61" dur="2.94s" begin="2.50s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.8" cy="104.5" r="6.0" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.27s" begin="1.12s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.8" cy="104.5" r="2.7" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.27s" begin="1.12s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.6" cy="130.0" r="8.4" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.78s" begin="0.09s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.6" cy="130.0" r="3.8" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.64;1;0.64" dur="1.78s" begin="0.09s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="350.9" cy="155.5" r="10.3" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.96s" begin="0.02s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="350.9" cy="155.5" r="4.7" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.56;1;0.56" dur="1.96s" begin="0.02s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="339.7" cy="181.0" r="8.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="3.34s" begin="2.66s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="339.7" cy="181.0" r="3.9" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.67;1;0.67" dur="3.34s" begin="2.66s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="350.9" cy="206.5" r="9.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.93s" begin="1.66s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="350.9" cy="206.5" r="4.4" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.64;1;0.64" dur="2.93s" begin="1.66s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.0" cy="232.0" r="9.0" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.25s" begin="1.42s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="347.0" cy="232.0" r="4.1" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.25s" begin="1.42s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="605.8" cy="28.0" r="15.9" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.67s" begin="1.92s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="605.8" cy="28.0" r="5.0" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.67s" begin="1.92s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.2" cy="45.0" r="11.1" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.21s" begin="2.57s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.2" cy="45.0" r="3.5" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="2.21s" begin="2.57s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="604.7" cy="62.0" r="11.1" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.80s" begin="2.94s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="604.7" cy="62.0" r="3.5" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.58;1;0.58" dur="2.80s" begin="2.94s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="595.1" cy="79.0" r="10.8" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.99s" begin="0.12s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="595.1" cy="79.0" r="3.4" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.62;1;0.62" dur="1.99s" begin="0.12s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="599.0" cy="96.0" r="10.8" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.71s" begin="1.23s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="599.0" cy="96.0" r="3.4" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="2.71s" begin="1.23s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="606.1" cy="113.0" r="13.0" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="3.10s" begin="2.61s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="606.1" cy="113.0" r="4.0" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.62;1;0.62" dur="3.10s" begin="2.61s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="603.2" cy="130.0" r="15.6" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.97s" begin="1.91s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="603.2" cy="130.0" r="4.9" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.56;1;0.56" dur="1.97s" begin="1.91s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="593.8" cy="147.0" r="10.6" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.79s" begin="0.24s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="593.8" cy="147.0" r="3.3" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.79s" begin="0.24s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="600.8" cy="164.0" r="12.6" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.64s" begin="2.73s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="600.8" cy="164.0" r="3.9" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.59;1;0.59" dur="1.64s" begin="2.73s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.9" cy="181.0" r="9.9" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.66s" begin="2.68s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.9" cy="181.0" r="3.1" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.64;1;0.64" dur="1.66s" begin="2.68s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="605.7" cy="198.0" r="8.8" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.70s" begin="1.05s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="605.7" cy="198.0" r="2.7" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.70s" begin="1.05s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.1" cy="215.0" r="11.2" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="3.33s" begin="2.46s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="598.1" cy="215.0" r="3.5" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.69;1;0.69" dur="3.33s" begin="2.46s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="602.3" cy="232.0" r="16.0" fill="#F8FAFC" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.69s" begin="0.81s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="602.3" cy="232.0" r="5.0" fill="#F8FAFC" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="1.69s" begin="0.81s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="855.2" cy="28.0" r="6.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.83s" begin="1.75s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="855.2" cy="28.0" r="3.0" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.59;1;0.59" dur="1.83s" begin="1.75s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="853.7" cy="53.5" r="7.3" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.70s" begin="2.52s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="853.7" cy="53.5" r="3.3" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.60;1;0.60" dur="2.70s" begin="2.52s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="853.1" cy="79.0" r="8.1" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.91s" begin="0.71s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="853.1" cy="79.0" r="3.7" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.56;1;0.56" dur="1.91s" begin="0.71s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="852.7" cy="104.5" r="8.8" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.92s" begin="1.97s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="852.7" cy="104.5" r="4.0" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="2.92s" begin="1.97s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="856.6" cy="130.0" r="7.1" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.70s" begin="2.62s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="856.6" cy="130.0" r="3.2" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.57;1;0.57" dur="2.70s" begin="2.62s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="860.7" cy="155.5" r="8.3" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.25s" begin="2.32s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="860.7" cy="155.5" r="3.8" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.65;1;0.65" dur="2.25s" begin="2.32s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="860.1" cy="181.0" r="9.4" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.67s" begin="0.40s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="860.1" cy="181.0" r="4.3" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="1.67s" begin="0.40s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="856.9" cy="206.5" r="8.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.71s" begin="0.34s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="856.9" cy="206.5" r="3.9" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.63;1;0.63" dur="2.71s" begin="0.34s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="855.1" cy="232.0" r="9.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.94s" begin="1.95s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="855.1" cy="232.0" r="4.4" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.59;1;0.59" dur="2.94s" begin="1.95s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1116.2" cy="28.0" r="8.0" fill="#F59E0B" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.77s" begin="1.28s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1116.2" cy="28.0" r="3.6" fill="#F59E0B" opacity="0.95">
+    <animate attributeName="opacity" values="0.69;1;0.69" dur="1.77s" begin="1.28s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1112.9" cy="79.0" r="7.2" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="3.08s" begin="2.74s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1112.9" cy="79.0" r="3.3" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.68;1;0.68" dur="3.08s" begin="2.74s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1111.2" cy="130.0" r="7.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.19s" begin="2.05s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1111.2" cy="130.0" r="3.5" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.66;1;0.66" dur="2.19s" begin="2.05s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1107.6" cy="181.0" r="8.0" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="2.52s" begin="1.92s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1107.6" cy="181.0" r="3.6" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.66;1;0.66" dur="2.52s" begin="1.92s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1114.1" cy="232.0" r="10.7" fill="#38BDF8" opacity="0.1">
+    <animate attributeName="opacity" values="0.06;0.22;0.06" dur="1.92s" begin="2.65s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="1114.1" cy="232.0" r="4.9" fill="#38BDF8" opacity="0.95">
+    <animate attributeName="opacity" values="0.66;1;0.66" dur="1.92s" begin="2.65s" repeatCount="indefinite" />
+  </circle>
 </svg>
