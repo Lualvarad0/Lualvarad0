@@ -19,17 +19,18 @@
 ### 🐧 whoami
 
 ```ansi
-[1;32mdavid@portfolio[0m
-[1;32m───────────────────────────────────────────────────────────[0m
-[1;32mOS[0m         Full Stack Developer → Security Enthusiast
-[1;32mHost[0m       Guayas, Ecuador
-[1;32mKernel[0m     Flutter · .NET · Angular · Node
-[1;32mUptime[0m     Construyendo Unisono (Flutter, offline-first)
-[1;32mShell[0m      OWASP Top 10, Burp Suite, Nmap — autodidacta
-[1;32mPackages[0m   SaaS para pymes: talleres mecanicos, tributario SRI
-[1;32mContact[0m    linkedin.com/in/david-alvarado-ronquillo
+[1;36mdavid@portfolio[0m
+[1;36m---------------[0m
+    .--.        [1;36mOS[0m       Desarrollador Full Stack Senior · DevOps · Seguridad
+   |o_o |       [1;36mHost[0m     Áslam IT (España) — 100% remoto
+   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · .NET · TypeScript · SQL Server
+  //   \ \      [1;36mUptime[0m   3+ años construyendo software en producción
+ (|     | )     [1;36mPackages[0m Ing. en Sistemas + Máster en Ciberseguridad (OBS, Madrid)
+/'\_   _/`\     [1;36mShell[0m    OWASP Top 10 · JWT · OAuth 2.0 · Hardening Linux
+\___)=(___/     [1;36mIdiomas[0m  Español (nativo) · Inglés (técnico)
+                [1;36mContact[0m  linkedin.com/in/david-alvarado-ronquillo
 
-[1;32m$[0m [1;37mecho "Hablemos de tu proximo proyecto."[0m
+[1;36m$[0m echo "Hablemos de tu proximo proyecto."
 Hablemos de tu proximo proyecto.
 ```
 
