@@ -1,12 +1,8 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=F1F5F9&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0F172A&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0F172A&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
-</picture>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=38&duration=2500&pause=100000&repeat=false&color=0284C7&center=true&vCenter=true&width=500&height=55&lines=David+Alvarado" alt="David Alvarado" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=30&lines=Full+Stack+Developer;Flutter+%C2%B7+ASP.NET+%C2%B7+Angular+%C2%B7+Node;Transicionando+a+Ciberseguridad+Ofensiva;Construyendo+productos+reales+en+Ecuador" alt="Typing SVG" />
 
 <br/>
 
@@ -16,14 +12,14 @@
 
 </div>
 
-### 🐧 whoami
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=180&height=32&lines=%24+whoami" alt="$ whoami" />
 
 ```ansi
 [1;36mdavid@portfolio[0m
 [1;36m---------------[0m
     .--.        [1;36mOS[0m       Desarrollador Full Stack Senior · DevOps · Seguridad
-   |o_o |       [1;36mHost[0m     Áslam IT (España) — 100% remoto
-   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · .NET · TypeScript · SQL Server
+   |o_o |       [1;36mStatus[0m   Abierto a nuevas oportunidades · 100% remoto
+   |:_/ |       [1;36mKernel[0m   Vue 3 · Nuxt · ASP.NET · TypeScript · SQL Server
   //   \ \      [1;36mUptime[0m   3+ años construyendo software en producción
  (|     | )     [1;36mPackages[0m Ing. en Sistemas + Máster en Ciberseguridad (OBS, Madrid)
 /'\_   _/`\     [1;36mShell[0m    OWASP Top 10 · JWT · OAuth 2.0 · Hardening Linux
@@ -34,6 +30,8 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2200&pause=900&color=38BDF8&center=false&vCenter=true&width=620&height=32&lines=%24+whoami;David+Alvarado;%24+cat+estado.txt;Disponible+para+nuevos+retos" alt="terminal" />
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=380&height=32&lines=%24+git+log+--oneline" alt="$ git log --oneline" />
 
 <div align="center">
 
@@ -47,9 +45,7 @@
 
 <br>
 
-### 🚀 Proyectos destacados
-
-<p><code>$ tree ~/proyectos-destacados -L 1</code></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=380&height=32&lines=%24+ls+proyectos-destacados%2F" alt="$ ls proyectos-destacados/" />
 
 <a href="https://github.com/Lualvarad0/Unisono">
 <img src="assets/covers/unisono.svg" width="100%"/>
@@ -132,7 +128,7 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 
 <br>
 
-### 🧠 Tech Stack
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=1800&pause=100000&repeat=false&color=38BDF8&center=false&vCenter=true&width=300&height=32&lines=%24+cat+tech-stack.sh" alt="$ cat tech-stack.sh" />
 
 <div align="center">
 
