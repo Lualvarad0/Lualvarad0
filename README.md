@@ -133,17 +133,17 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 <div align="center">
 
 <sub><b>Lenguajes</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,php,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cs,ts,js,dart,php,py,cpp&theme=dark" />
 
 <br/>
 
 <sub><b>Frameworks</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=flutter,dotnet,angular,nextjs,nodejs,vue,nuxtjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,angular,nextjs,nodejs,vue,nuxtjs,laravel,react&theme=dark" />
 
 <br/>
 
 <sub><b>Bases de datos</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,mongodb&theme=dark" /> <code>SQL Server</code>
 
 <br/>
 
@@ -170,7 +170,7 @@ PHP MVC en producción real: colegios, luminarias CNEL, trabajadores, roles y no
 </td>
 <td width="45%" valign="top">
 
-<img src="https://streak-stats.demolab.com/?user=Lualvarad0&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" width="100%"/>
+<img src="https://streak-stats.demolab.com/?user=Lualvarad0&hide_border=true&background=0F172A&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&sideLabels=94A3B8&dates=64748B" width="100%"/>
 
 </td>
 </tr>
